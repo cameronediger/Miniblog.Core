@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <NeutralLanguage>en-US</NeutralLanguage>
     <RepositoryType>git</RepositoryType>
+    <UserSecretsId>014be227-0c4e-448c-b27b-078a4f9c35ee</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
